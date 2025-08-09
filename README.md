@@ -1,5 +1,3 @@
-<h1 align="center">SlotJS</h1>
-
 <p align="center">
     🎰 Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!
 </p><p align="center">
